@@ -1,0 +1,1 @@
+# solux_seminar_git
